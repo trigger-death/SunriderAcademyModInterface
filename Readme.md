@@ -11,6 +11,11 @@ A fork of Neppi's mod (with no repo). Contains UI improvements and improved mod 
 
 The original [Mod Interface Forum Post can be found here](http://forum.loveinspace.moe/thread/625/sunrider-academy-mod-interface).
 
+<p align="center">
+<b>Compatible Mods:</b><br/>
+<a href="http://forum.loveinspace.moe/thread/626/sunrider-academy-arccheat-overhaul">Arc Cheat Overhaul</a> | <a href="https://github.com/trigger-death/SunriderAcademyPureVN">PureVN</a><br/>
+</p>
+
 <p align="center"><img src="preview/mod_list_preview_2.png"/></p>
 
 ***
