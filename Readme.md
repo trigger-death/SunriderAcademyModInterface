@@ -66,7 +66,7 @@ init python:
 Calling Start will automatically hide all screens, so hide_list is unnecessary.
 
 ```renpy
-Start("label_name")  # to start a game at label
+Start("label_name")  # to start a new game at label
 Show("screen_name")  # to show a screen
 Function(func_name)  # to call a function
 ```
