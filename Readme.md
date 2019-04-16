@@ -1,5 +1,12 @@
 # Sunrider Academy Mod Interface
 
+<!--[![Latest Release](https://img.shields.io/github/release-pre/trigger-death/SunriderAcademyModInterface.svg?style=flat&label=version)](https://github.com/trigger-death/SunriderAcademyModInterface/releases/latest)
+[![Latest Release Date](https://img.shields.io/github/release-date-pre/trigger-death/SunriderAcademyModInterface.svg?style=flat&label=released)](https://github.com/trigger-death/SunriderAcademyModInterface/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/trigger-death/SunriderAcademyModInterface/total.svg?style=flat)](https://github.com/trigger-death/SunriderAcademyModInterface/releases)-->
+[![Modification Date](https://img.shields.io/badge/modified-april%202019-A642FF.svg?style=flat)](https://github.com/trigger-death/SunriderAcademyModInterface/commit/ea144c005b804031a92d12b4c58e1e93980bcce4)
+[![Love in Space Forums](https://img.shields.io/badge/love%20in%20space-forums-C75051.svg?style=flat)](http://forum.loveinspace.moe/thread/625/sunrider-academy-mod-interface)
+<!--[![Discord](https://img.shields.io/discord/436949335947870238.svg?style=flat&logo=discord&label=chat&colorB=7389DC&link=https://discord.gg/vB7jUbY)](https://discord.gg/vB7jUbY)-->
+
 A fork of Neppi's mod (with no repo). Contains UI improvements and improved mod compatibility support.
 
 The original [Mod Interface Forum Post can be found here](http://forum.loveinspace.moe/thread/625/sunrider-academy-mod-interface).
