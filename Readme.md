@@ -6,8 +6,6 @@ The original [Mod Interface Forum Post can be found here](http://forum.loveinspa
 
 <p align="center"><img src="preview/mod_list_preview_2.png"/></p>
 
-<br/>
-
 ***
 
 <br/>
