@@ -230,50 +230,6 @@ init -200 python:
     # Keep for backwards compatibility, this is referenced in ac_mod.eval_main_buttons().
     ac_mod_button_list = []
 
-    ### SUNRIDER ACADEMY MOD LIST DOCUMENTATION
-
-    # Interacting with Mods List
-    # Any interactions with `ac_mod` must be called at init -199 or higher.
-
-    # Check if Mods List is installed:
-    # if hasattr(store,'ac_mod'):
-    #     # New version
-    #     ac_mod.register_main_button(text="My Mod",action=Start("mymod_start"),verion="v1.0.1.2")
-    # elif hasattr(store,'ac_mod_button_list'):
-    #     # Depricated version
-    #     ac_mod_button_list.append(["mods/mymod/button_base.png","mods/mymod/button_hover.png","mymod_start",False,False])
-
-    # Example: How to add a mod list button
-    # ac_mod.register_main_button(text="Mods List",action=Show("mods_list"),hide_list=True,version="v2.0.0.0")
-    # Note: Version is not required
-
-    # Example: Mod button actions
-    # Start("label") to start a game at label
-    # Show("screen") to show a screen
-    # Function("func") to call a function
-
-    # Note: Calling Start will automatically hide all screens, so hide_list is unnecessary.
-
-
-
-    #ac_mod_button_list=[]
-
-
-    # Example buttons
-
-    # def ac_mod_add(name, action, hide_list=False, hide_main=False, condition=None):
-    #     mod = object()
-    #     mod.text = name
-    #     mod.action = action
-    #     mod.hide_list = hide_list
-    #     mod.hide_main = hide_main
-    #     if condition is None:
-    #         mod.condition = "True"
-    #     else:
-    #         mod.condition = condition
-    #     ac_mod_button_list.append(mod)
-    #     return mod
-
 init 2 python:
     # Initialize the Mod List label callback override system
     # Sunrider Academy's label callback is setup in an `init 1` block, so we need `init 2` or later.

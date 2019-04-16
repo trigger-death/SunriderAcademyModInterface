@@ -2,9 +2,9 @@
 
 A fork of Neppi's mod (with no repo). Contains UI improvements and improved mod compatibility support.
 
-### [Original Mod Interface Forum Post](http://forum.loveinspace.moe/thread/625/sunrider-academy-mod-interface)
+The original [Mod Interface Forum Post can be found here](http://forum.loveinspace.moe/thread/625/sunrider-academy-mod-interface).
 
-<p align="center"><img src="preview/mod_list_preview.png"/></p>
+<p align="center"><img src="preview/mod_list_preview_2.png"/></p>
 
 <br/>
 
@@ -140,7 +140,7 @@ init 2 python:
 
     else:
         if hasattr(store,'ac_mod_button_list'):
-            # Register our mod buttons using the old depricated API
+            # Register our mod buttons using the old deprecated API
             ac_mod_button_list.append(["mods/purevn/UI/mod_purevn_base.png","mods/purevn/UI/mod_purevn_hover.png","purevn_start",False,False])
             ac_mod_button_list.append(["mods/purevn/UI/mod_purevn_skipcommon_base.png","mods/purevn/UI/mod_purevn_skipcommon_hover.png","purevn_start_skipcommon",False,False])
 
@@ -156,7 +156,7 @@ init 2 python:
 
 <br/>
 
-## Depricated Mod Interface API
+## Deprecated Mod Interface API
 
 You can insert a mod button into that interface and determine which function it has. The code which has to be placed somewhere in your mod is a list consisting of 5 elements which then is added to the ac_mod_button_list which is called in the main menu. Heres the structure:
 
